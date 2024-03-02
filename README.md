@@ -1,8 +1,25 @@
-# bangkit
-Lab untuk Bangkit
+# Dicoding Collection Dashboard ✨
+
+## Run steamlit app
+[Klik Link ini](https://dashboardsewasepeda.streamlit.app) dan browser anda akan membuka dashboardnya
 
 
-ini adalah repository coba coba untuk bangkit
+
+Atau jika anda ingin menjalankan di lokal bisa mengikuti langkah ini
 
 
-ini diedit lagi buat fetch
+## Setup environment
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
+
+## Run steamlit app
+Atau dengan memasukkan URL link yang sudah saya siapkan di browser anda
+
