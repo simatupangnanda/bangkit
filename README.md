@@ -1,8 +1,8 @@
 # Dicoding Collection Dashboard ✨
 
 ## Run steamlit app
-```[Klik Link ini](https://dashboardsewasepeda.streamlit.app) dan browser anda akan membuka dashboardnya
-```
+
+``` [Klik Link ini](https://dashboardsewasepeda.streamlit.app) dan browser anda akan membuka dashboardnya ```
 
 
 Atau jika anda ingin menjalankan di lokal bisa mengikuti langkah dibwah ini
