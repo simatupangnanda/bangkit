@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Dashbiard Sewa Sepeda
 
 ## Run steamlit app
 
